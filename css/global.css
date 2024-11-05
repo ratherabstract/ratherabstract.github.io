@@ -1,0 +1,34 @@
+﻿html {
+    font-size: 100%;
+}
+
+body {
+    background-color: #fffefd;
+    margin: 1rem;
+
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    font-family: Georgia, serif;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    font-size: inherit;
+    font-weight: normal;
+}
+
+.main {
+    max-width: 42rem;
+    min-width: 20rem;
+    margin: 1.5rem auto 4rem auto;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 2.3rem;
+}
+        
+a {
+    text-decoration: underline;
+    color: inherit;
+}

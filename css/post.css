@@ -1,0 +1,24 @@
+p.delim {
+    text-align: center;
+    white-space: nowrap;
+    font-family: Courier, monospace;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+img {
+  border-radius: 3px;
+  border: 1px solid #333;
+}
+img.header {
+    width: 100%;
+}
+
+.navigation {
+    width: auto;
+    float: right;
+    text-align: right;
+    font-style: oblique;
+}	    	
