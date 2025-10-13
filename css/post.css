@@ -5,13 +5,14 @@ p.delim {
 }
 
 li {
-    margin-bottom: 1rem;
+    margin-bottom: 0.8rem;
 }
 
 img {
   border-radius: 3px;
   border: 1px solid #333;
 }
+
 img.header {
     width: 100%;
 }
@@ -21,4 +22,4 @@ img.header {
     float: right;
     text-align: right;
     font-style: oblique;
-}	    	
+}       
