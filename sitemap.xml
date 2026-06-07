@@ -6,7 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://being.ratherabstract.com/</loc>
   <lastmod>2024-11-13T17:32:42+00:00</lastmod>
@@ -17,6 +16,10 @@
   <lastmod>2024-11-13T17:32:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://being.ratherabstract.com/2026-06-07/merkel-taube-meme.html</loc>
+  <lastmod>2026-06-07T14:16:18+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
 
 </urlset>
